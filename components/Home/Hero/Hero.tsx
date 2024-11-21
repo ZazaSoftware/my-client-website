@@ -43,7 +43,7 @@ const Hero = () => {
         data-aos="fade-left" data-aos-delay="400" 
         className='mx-auto  lg:block rounded-[3rem] border-[3.5px] border-blue-950 overflow-x-hidden'>
          {/*mx-auto hidden lg:block*/}
-         <img
+         <Image
          src={BaseInfo.profilePic}
          alt={BaseInfo.name}
          width={350}

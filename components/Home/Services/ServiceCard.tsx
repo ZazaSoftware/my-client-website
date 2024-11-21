@@ -2,7 +2,7 @@
 import React from 'react';
 import Tilt from 'react-parallax-tilt';
 import Image from "next/image";
-import { servicesData } from "@/Data/data";
+//import { servicesData } from "@/Data/data";
 
 
 

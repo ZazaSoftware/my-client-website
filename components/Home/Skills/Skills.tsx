@@ -2,7 +2,7 @@ import React from 'react';
 import SectionHeading from "@/components/Helper/SectionHeading";
 import { skillsData } from "@/Data/data";
 import SkillCard from './SkillCard';
-import Image from "next/image";
+//import Image from "next/image";
 
 const Skills = () => {
   return (

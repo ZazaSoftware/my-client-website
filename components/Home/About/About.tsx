@@ -54,7 +54,7 @@ const About = () => {
     className='grid grid-cols-2 gap-16 items-center lg:mx-auto'>
       {/*1 stats */}
      <div>
-       <img
+       <Image
        src="/images/customer.png" 
        alt="image"
        width={80}
@@ -66,7 +66,7 @@ const About = () => {
      </div>
          {/*2 stats */}
      <div>
-       <img
+       <Image
        src="/images/experience.png" 
        alt="image"
        width={80}
@@ -78,7 +78,7 @@ const About = () => {
      </div>
          {/*3 stats */}
      <div>
-       <img
+       <Image
        src="/images/completed.png" 
        alt="image"
        width={80}
@@ -90,7 +90,7 @@ const About = () => {
      </div>
           {/*4 stats */}
      <div>
-       <img
+       <Image
        src="/images/rocket.png" 
        alt="image"
        width={80}
